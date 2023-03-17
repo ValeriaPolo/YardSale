@@ -314,7 +314,7 @@ nav {
 .product-detail-aside {
   width: 360px;
   padding-bottom: 24px;
-
+  background-color: var(--white);
   position: absolute;
   top: 60px;
   right: 0;
